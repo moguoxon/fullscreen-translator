@@ -1,0 +1,15 @@
+# 敏感文件 - 包含 API 密钥
+config.json
+
+# 可执行文件 - 通过 Releases 发布
+*.exe
+
+# 历史记录 - 个人使用数据
+history/
+
+# 日志文件
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

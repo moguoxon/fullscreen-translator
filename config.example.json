@@ -1,0 +1,6 @@
+{
+  "appid": "你的百度翻译API ID",
+  "appkey": "你的百度翻译API密钥",
+  "from_lang": "auto",
+  "to_lang": "zh"
+}
